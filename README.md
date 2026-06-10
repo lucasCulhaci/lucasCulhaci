@@ -12,7 +12,7 @@
   <summary>About Me</summary>
 
   <br>
-  Full-Stack Web Developer, born and raised in Belgium. I have a deep passion for creating and building with a strong focus on software development.
+  Full-Stack Web Developer, born and raised in Belgium. I have a deep passion for creating and building with a strong focus on webdevelopment.
   <h1>Fun Facts</h1>
   <ul>
     <li>I have played the piano for over 14 years and also tutored towards the end of my journey</li>
