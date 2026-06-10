@@ -15,12 +15,12 @@
   Full-Stack Web Developer, born and raised in Belgium. I have a deep passion for creating and building with a strong focus on webdevelopment.
   <h1>Fun Facts</h1>
   <ul>
-    <li>I have played the piano for over 14 years and also tutored towards the end of my journey</li>
-    <li>I taught children the basics of software development using Scratch</li>
-    <li>I have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment management and construction</li>
-    <li>I used to focus on powerlifting but recently started bodybuilding</li>
-    <li>I love Drum &amp; Bass and Uptempo</li>
-    <li>I speak three languages: Flemish/Dutch (Native), English, and French</li>
+    <li>Played the piano for over 14 years and also tutored towards the end of my journey</li>
+    <li>Taught children the basics of software development using Scratch</li>
+    <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment management and construction</li>
+    <li>Used to focus on powerlifting but recently started bodybuilding</li>
+    <li>Love Drum &amp; Bass and Uptempo</li>
+    <li>Speak three languages: Flemish/Dutch (Native), English, and French</li>
   </ul>
   
   <h1>Favorites</h1>
