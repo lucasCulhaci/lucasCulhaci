@@ -20,7 +20,7 @@
     <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment management and construction</li>
     <li>Used to focus on powerlifting but recently started bodybuilding</li>
     <li>Love Drum &amp; Bass and Uptempo</li>
-    <li>Speak three languages: Flemish/Dutch (Native), English, and French</li>
+    <li>Speak three languages: Flemish/Dutch (Native), English and French</li>
   </ul>
   
   <h1>Favorites</h1>
