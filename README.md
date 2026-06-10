@@ -7,7 +7,7 @@
 
 --- 
 
-<details closed>
+<details>
   <summary>Fun Facts</summary>
   <h1>Favorites</h1>
   <ul>
