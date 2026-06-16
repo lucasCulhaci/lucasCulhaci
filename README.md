@@ -12,7 +12,7 @@
   <summary>About Me</summary>
 
   <br>
-  Full-Stack Web Developer, born and raised in Belgium. I have a deep passion for creating and building with a strong focus on webdevelopment.
+  Full-Stack Web Developer. I have a deep passion for creating and building with a strong focus on webdevelopment.
   <h1>Fun Facts</h1>
   <ul>
     <li>Played the piano for over 14 years and also tutored towards the end of my journey</li>
@@ -26,7 +26,7 @@
   <h1>Favorites</h1>
   <ul>
     <li><b>Games:</b> Detroit: Become Human, God of War, The Last of Us series, Beyond: Two Souls, Until Dawn, State of Mind, Counter-Strike 2</li>
-    <li><b>Series:</b> Rick and Morty, South Park, Bojack Horseman, F is for Family</li>
+    <li><b>Series:</b> Rick and Morty, South Park, Bojack Horseman, F is for Family, Final Space</li>
     <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen, Attack on Titan</li>
     <li><b>Books:</b> Engelenhuis by Dirk Bracke, Can't Hurt Me by David Goggins</li>
     <li><b>Sports:</b> Bodybuilding</li>
