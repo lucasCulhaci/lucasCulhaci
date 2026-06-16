@@ -25,7 +25,7 @@
   
   <h1>Favorites</h1>
   <ul>
-    <li><b>Games:</b> Detroit: Become Human, God of War, The Last of Us series, Beyond: Two Souls, Until Dawn, State of Mind, Counter-Strike 2</li>
+    <li><b>Games:</b> Detroit: Become Human, God of War, The Last of Us series, Beyond: Two Souls, Until Dawn, State of Mind</li>
     <li><b>Series:</b> Rick and Morty, South Park, Bojack Horseman, F is for Family, Final Space</li>
     <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen, Attack on Titan</li>
     <li><b>Books:</b> Engelenhuis by Dirk Bracke, Can't Hurt Me by David Goggins</li>
