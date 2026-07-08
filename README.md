@@ -18,7 +18,7 @@
     <li>Played the piano for over 14 years and also tutored towards the end of my journey</li>
     <li>Taught children the basics of software development using Scratch</li>
     <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment management and construction</li>
-    <li>Used to focus on powerlifting but recently started bodybuilding</li>
+    <li>Currently focused on my weight loss journey</li>
     <li>Love Drum &amp; Bass and Uptempo</li>
     <li>Speak three languages: Flemish/Dutch (Native), English and French</li>
   </ul>
