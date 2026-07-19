@@ -25,7 +25,7 @@
   
   <h1>Favorites</h1>
   <ul>
-    <li><b>Games:</b> Detroit: Become Human, God of War, The Last of Us franchise, Beyond: Two Souls, Until Dawn, High on Life franchise, State of Mind</li>
+    <li><b>Games:</b> Detroit: Become Human, God of War, The Last of Us franchise, Beyond: Two Souls, Until Dawn, High on Life franchise, State of Mind, <a href="https://osu.ppy.sh/users/38712461">Osu</a></li>
     <li><b>Series:</b> W817, Rick and Morty, South Park, Bojack Horseman, F is for Family, Final Space</li>
     <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen, Attack on Titan</li>
     <li><b>Books:</b> Engelenhuis by Dirk Bracke, Can't Hurt Me by David Goggins</li>
@@ -46,7 +46,7 @@
     <li><b>Keyboard:</b> 24-zone RGB backlighting, Dark Black - Belgian (Azerty)</li>
     <li><b>Wireless:</b> Wi-Fi 7 2x2 BE 160 MHz and Bluetooth® 5.4</li>
     <li><b>Battery:</b> 4-cell, 80 Wh rechargeable Li-ion</li>
-    <li><b>Laptop display:</b> 15.1" WQXGA (2560 x 1600), OLED, glossy, non-touch, HDR 600 True Black, 100% DCI-P3, 500 nits, 165 Hz</li>
+    <li><b>Display:</b> 15.1" WQXGA (2560 x 1600), OLED, glossy, non-touch, HDR 600 True Black, 100% DCI-P3, 500 nits, 165 Hz</li>
   </ul>
 
   <h1>Hardware</h1>
