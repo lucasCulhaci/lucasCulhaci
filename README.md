@@ -13,13 +13,12 @@
 
   <br>
   Full-Stack Web Developer. I have a deep passion for creating and building with a strong focus on webdevelopment.
-  <h1>Fun Facts</h1>
+  <h1>My Journey So Far</h1>
   <ul>
     <li>Played the piano for over 14 years and also tutored towards the end of my journey</li>
     <li>Taught children the basics of software development using Scratch</li>
-    <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment management and construction</li>
+    <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment manager and construction expediter</li>
     <li>Currently focused on my weight loss journey</li>
-    <li>Love Drum &amp; Bass and Uptempo</li>
     <li>Speak three languages: Flemish/Dutch (Native), English and French</li>
   </ul>
   
@@ -29,6 +28,9 @@
     <li><b>Series:</b> W817, Rick and Morty, South Park, Bojack Horseman, F is for Family, Final Space</li>
     <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen, Attack on Titan</li>
     <li><b>Books:</b> Engelenhuis by Dirk Bracke, Can't Hurt Me by David Goggins</li>
+    <li><b>Season:</b> Autumn, Winter</li>
+    <li><b>Song:</b> Wasted Time by Odium, Can't Keep Me Down by Murdock, Hymn to Freedom by Victor Demange, Love by Noah Vanden Abeele</li>
+    <li><b>Music Genre:</b> Drum & Bass, Uptempo, Lo-fi, Neoclassical</li>
   </ul>
 </details>
 
@@ -51,8 +53,8 @@
 
   <h1>Hardware</h1>
   <ul>
-    <li><b>Main display:</b> LG UltraGear 27GS85Q-B</li>
-    <li><b>Secondary display:</b> HP Pavilion 24xw</li>
+    <li><b>Main Display:</b> LG UltraGear 27GS85Q-B</li>
+    <li><b>Secondary Display:</b> HP Pavilion 24xw</li>
     <li><b>Webcam:</b> Logitech C922 Pro Stream Webcam</li>
     <li><b>Keyboard</b>: Logitech G515 Lightspeed TKL</li>
     <li><b>Mouse:</b> Razer Viper V3 Pro SE</li>
