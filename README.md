@@ -54,6 +54,7 @@
   <h1>Hardware</h1>
   <ul>
     <li><b>Main Display:</b> LG UltraGear 27GS85Q-B</li>
+    <li><b>Main Display Monitor Arm:</b> GRIFEMA GB2003-1</li>
     <li><b>Secondary Display:</b> HP Pavilion 24xw</li>
     <li><b>Webcam:</b> Logitech C922 Pro Stream Webcam</li>
     <li><b>Keyboard</b>: Logitech G515 Lightspeed TKL</li>
