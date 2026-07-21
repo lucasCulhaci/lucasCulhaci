@@ -36,7 +36,7 @@
 
 
 <details>
-  <summary>Tech</summary>
+  <summary>Setup</summary>
   
   <h1>Mobile Workstation</h1>
   <ul>
