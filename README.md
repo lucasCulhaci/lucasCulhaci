@@ -15,7 +15,7 @@
   Full-Stack Web Developer. I have a deep passion for creating and building with a strong focus on webdevelopment.
   <h1>My Journey So Far</h1>
   <ul>
-    <li>Played the piano for over 14 years and also tutored towards the end of my journey</li>
+    <li>Played the piano and also tutored towards the end of my journey</li>
     <li>Taught children the basics of software development using Scratch</li>
     <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment manager and construction expediter</li>
     <li>Currently focused on my weight loss journey</li>
