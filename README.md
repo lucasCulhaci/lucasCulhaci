@@ -65,6 +65,7 @@
     <li><b>Active Nearfields Monitors:</b> 2 x KRK Rokit RP5 G5</li>
     <li><b>Smartphone:</b> Nothing 4A Pro 12GB RAM + 256GB Internal Storage</li>
     <li><b>Headphone:</b> Nothing Headphone (a)</li>
+    <li><b>Earphone:</b> Nothing Ear (3a)</li>
     <li><b>Tablet: </b> OnePlus Pad Go 2 w/ Stylus</li>
     <li><b>Drawing Tablet:</b> One by Wacom M</li>
     <li><b>Favorite Gamepad:</b> Xbox Series X Controller</li>
