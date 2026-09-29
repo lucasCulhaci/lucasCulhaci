@@ -4,33 +4,34 @@
 - **Frontend**: React w/ Typescript, .NET MAUI, .NET WPF 
 - **Database**: MySQL, PostgreSQL, Microsoft SQL Server, MongoDB
 - **Styling**: TailwindCSS
-- **Tools**: JetBrains Rider, JetBrains WebStorm, VSCode, Figma, Draw.io, WSL, PDFGear, Adobe Premiere Pro
+- **Cloud**: Microsoft Azure
+- **Tools**: JetBrains Rider, JetBrains WebStorm, Git, Draw.io, Powershell & WSL, PDFGear, Adobe Premiere Pro
 
 --- 
 
 <details>
+  
   <summary>About Me</summary>
 
   <br>
-  Full-Stack Web Developer. I have a deep passion for creating and building with a strong focus on webdevelopment.
-  <h1>My Journey So Far</h1>
+  <b>I have a deep passion for creating and building with a strong focus on full-stack web development.</b>
+  
+  <h1>General</h1>
   <ul>
+    <li>Currently focused on my degree (Full-Stack Cloud Development) and my weight loss journey (lost 20 KG's so far)</li>
+    <li>Speak three languages: Flemish/Dutch (Native), English and French</li>
+    <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment management and construction expediting</li>
     <li>Played the piano and also tutored towards the end of my journey</li>
     <li>Taught children the basics of software development using Scratch</li>
-    <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment manager and construction expediter</li>
-    <li>Currently focused on my weight loss journey, lost 20 KG's so far</li>
-    <li>Speak three languages: Flemish/Dutch (Native), English and French</li>
   </ul>
   
   <h1>Favorites</h1>
   <ul>
-    <li><b>Games:</b> Detroit: Become Human, God of War, The Last of Us franchise, Beyond: Two Souls, Until Dawn, High on Life franchise, State of Mind, <a href="https://osu.ppy.sh/users/38712461">Osu</a>, Warframe</li>
-    <li><b>Series:</b> W817, Rick and Morty, South Park, Bojack Horseman, F is for Family, Final Space</li>
-    <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen, Attack on Titan</li>
-    <li><b>Books:</b> Engelenhuis by Dirk Bracke, Can't Hurt Me by David Goggins</li>
-    <li><b>Season:</b> Autumn, Winter</li>
-    <li><b>Song:</b> Wasted Time by Odium, Can't Keep Me Down by Murdock, Hymn to Freedom by Victor Demange, Love by Noah Vanden Abeele</li>
-    <li><b>Music Genre:</b> Drum & Bass, Uptempo, Lo-fi, Neoclassical</li>
+    <li><b>Games:</b> Detroit: Become Human, The Last of Us franchise, Beyond: Two Souls, God of War, Until Dawn, High on Life franchise, State of Mind, <a href="https://osu.ppy.sh/users/38712461">Osu</a></li>
+    <li><b>Series:</b> W817, Taboe, Rick and Morty, South Park, Bojack Horseman, F is for Family, Family Guy, Final Space, Gene Paniek</li>
+    <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen</li>
+    <li><b>Books:</b> Engelenhuis by Dirk Bracke, De Dopaminefactor by Anna Lembke</li>
+    <li><b>Music Genre:</b> Drum & Bass, Uptempo, Lo-fi, Nightcore, Neoclassical</li>
   </ul>
 </details>
 
@@ -53,9 +54,8 @@
 
   <h1>Hardware</h1>
   <ul>
-    <li><b>Main Display:</b> LG UltraGear 27GS85Q-B</li>
+    <li><b>Displays:</b> LG UltraGear 27GS85Q-B</li>
     <li><b>Main Display Monitor Arm:</b> GRIFEMA GB2003-1</li>
-    <li><b>Secondary Display:</b> HP Pavilion 24xw</li>
     <li><b>Webcam:</b> Logitech C922 Pro Stream Webcam</li>
     <li><b>Keyboard</b>: Logitech G515 Lightspeed TKL</li>
     <li><b>Mouse:</b> Razer Viper V3 Pro SE</li>
@@ -65,10 +65,9 @@
     <li><b>Active Nearfields Monitors:</b> 2 x KRK Rokit RP5 G5</li>
     <li><b>Smartphone:</b> Nothing 4A Pro 12GB RAM + 256GB Internal Storage</li>
     <li><b>Headphone:</b> Nothing Headphone (a)</li>
-    <li><b>Earphone:</b> Nothing Ear (3a)</li>
     <li><b>Tablet: </b> OnePlus Pad Go 2 w/ Stylus</li>
     <li><b>Drawing Tablet:</b> One by Wacom M</li>
-    <li><b>Favorite Gamepad:</b> Xbox Series X Controller</li>
+    <li><b>Favorite Gamepad:</b> DualShock 4</li>
     <li><b>Portable Monitor:</b> DENVER Portable Monitor PMO-15602</li>
   </ul>
 </details>
