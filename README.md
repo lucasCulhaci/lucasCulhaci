@@ -18,7 +18,7 @@
     <li>Played the piano and also tutored towards the end of my journey</li>
     <li>Taught children the basics of software development using Scratch</li>
     <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment manager and construction expediter</li>
-    <li>Currently focused on my weight loss journey</li>
+    <li>Currently focused on my weight loss journey, lost 20 KG's so far</li>
     <li>Speak three languages: Flemish/Dutch (Native), English and French</li>
   </ul>
   
