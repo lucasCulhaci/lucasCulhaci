@@ -31,7 +31,7 @@
     <li><b>Series:</b> W817, Taboe, Rick and Morty, South Park, Bojack Horseman, F is for Family, Family Guy, Final Space, Gene Paniek</li>
     <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen</li>
     <li><b>Books:</b> Engelenhuis by Dirk Bracke, De Dopaminefactor by Anna Lembke</li>
-    <li><b>Music Genre:</b> Drum & Bass, Uptempo, Lo-fi, Nightcore, Neoclassical</li>
+    <li><b>Music Genre:</b> Drum & Bass, Uptempo, Lo-fi, Nightcore, Neoclassical, Rock</li>
   </ul>
 </details>
 
