@@ -1,11 +1,11 @@
 # Code is Art
 
 - **Backend**: .NET
-- **Frontend**: React w/ Typescript, .NET MAUI, .NET WPF 
+- **Frontend**: React w/ Typescript, .NET MAUI, .NET WPF
 - **Database**: MySQL, PostgreSQL, Microsoft SQL Server, MongoDB
 - **Styling**: TailwindCSS
 - **Cloud**: Microsoft Azure
-- **Tools**: JetBrains Rider, JetBrains WebStorm, Git, Draw.io, Powershell & WSL, PDFGear, Adobe Premiere Pro
+- **Tools**: JetBrains Rider, JetBrains WebStorm, Git, Draw.io, Powershell & WSL, Adobe Premiere Pro
 
 --- 
 
