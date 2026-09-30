@@ -27,9 +27,9 @@
   
   <h1>Favorites</h1>
   <ul>
-    <li><b>Games:</b> Detroit: Become Human, The Last of Us franchise, Beyond: Two Souls, God of War, Until Dawn, High on Life franchise, State of Mind, <a href="https://osu.ppy.sh/users/38712461">Osu</a></li>
+    <li><b>Games:</b> Detroit: Become Human, The Last of Us franchise, Beyond: Two Souls, God of War, State of Mind, <a href="https://osu.ppy.sh/users/38712461">Osu</a></li>
     <li><b>Series:</b> W817, Taboe, Rick and Morty, South Park, Bojack Horseman, F is for Family, Family Guy, Final Space, Gene Paniek</li>
-    <li><b>Anime / Manga:</b> Chainsaw Man, Naruto series, Jujutsu Kaisen</li>
+    <li><b>Anime / Manga:</b> Chainsaw Man, Naruto franchise, Jujutsu Kaisen</li>
     <li><b>Books:</b> Engelenhuis by Dirk Bracke, De Dopaminefactor by Anna Lembke</li>
     <li><b>Music Genre:</b> Drum & Bass, Uptempo, Lo-fi, Nightcore, Neoclassical, Rock</li>
   </ul>
