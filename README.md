@@ -1,16 +1,66 @@
-## Hi there 👋
+# Code is Art
 
-<!--
-**lucasCulhaci/lucasCulhaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Backend**: .NET
+- **Frontend**: React w/ Typescript, .NET MAUI, .NET WPF
+- **Database**: MySQL, PostgreSQL, Microsoft SQL Server, MongoDB
+- **Styling**: TailwindCSS
+- **Cloud**: Microsoft Azure
+- **Tools**: JetBrains Rider, JetBrains WebStorm, Git, Draw.io, Powershell & WSL, Adobe Premiere Pro
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  
+  <summary>About Me</summary>
+
+  <br>
+  <b>I have a deep passion for creating and building with a strong focus on full-stack web development.</b>
+  
+  <h1>General</h1>
+  <ul>
+    <li>Currently focused on my degree (Full-Stack Cloud Development) and my weight loss journey (lost 20 KG's so far)</li>
+    <li>Speak three languages: Flemish/Dutch (Native), English and French</li>
+    <li>Have experience in a wide variety of fields: counter clerk, assistant cook, customer support, shop assistant, apartment management and construction expediting</li>
+    <li>Played the piano and also tutored towards the end of my journey</li>
+    <li>Taught children the basics of software development using Scratch</li>
+  </ul>
+
+</details>
+
+
+<details>
+  <summary>Setup</summary>
+  
+  <h1>Mobile Workstation</h1>
+  <ul>
+    <li><b>OS:</b> Custom installation of Microsoft Windows 11 Pro (without Copilot, Microsoft Account, Windows Store, Onedrive, ...)</li>
+    <li><b>Processor:</b> AMD Ryzen™ AI 7 350 -processor</li>
+    <li><b>APU:</b> Radeon 860M</li>
+    <li><b>GPU:</b> NVIDIA® GeForce RTX™ 5060-laptop-GPU 8GB GDDR7</li>
+    <li><b>RAM:</b> 32 GB DDR5-5600MT/s</li>
+    <li><b>Keyboard:</b> 24-zone RGB backlighting, Dark Black - Belgian (Azerty)</li>
+    <li><b>Wireless:</b> Wi-Fi 7 2x2 BE 160 MHz and Bluetooth® 5.4</li>
+    <li><b>Battery:</b> 4-cell, 80 Wh rechargeable Li-ion</li>
+    <li><b>Display:</b> 15.1" WQXGA (2560 x 1600), OLED, glossy, non-touch, HDR 600 True Black, 100% DCI-P3, 500 nits, 165 Hz</li>
+  </ul>
+
+  <h1>Hardware</h1>
+  <ul>
+    <li><b>Main Display:</b> LG UltraGear 27G810A</li>
+    <li><b>Second Display:</b> LG UltraGear 27GS85Q-B</li>
+    <li><b>Monitor Arms:</b> GRIFEMA GB2003-1</li>
+    <li><b>Webcam:</b> Logitech C922 Pro Stream Webcam</li>
+    <li><b>Keyboard</b>: Logitech G515 Lightspeed TKL</li>
+    <li><b>Mouse:</b> Razer Viper V3 Pro SE</li>
+    <li><b>Mousepad:</b> Razer Gigantus V2 3XL</li>
+    <li><b>Microphone:</b> Audio-technica AT2020</li>
+    <li><b>Audio Interface:</b> Focusrite Scarlett 4i4 4th Generation</li>
+    <li><b>Active Nearfields Monitors:</b> 2 x KRK Rokit RP5 G5</li>
+    <li><b>Smartphone:</b> Nothing 4A Pro 12GB RAM + 256GB Internal Storage</li>
+    <li><b>Headphone:</b> Nothing Headphone (a)</li>
+    <li><b>Tablet: </b> OnePlus Pad Go 2 w/ Stylus</li>
+    <li><b>Drawing Tablet:</b> One by Wacom M</li>
+    <li><b>Favorite Gamepad:</b> DualShock 4</li>
+    <li><b>Portable Monitor:</b> DENVER Portable Monitor PMO-15602</li>
+  </ul>
+</details>
